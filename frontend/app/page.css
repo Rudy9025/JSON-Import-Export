@@ -1,0 +1,11 @@
+/* page.css */
+.canvas {
+    width: 100vw;   /* Full viewport width */
+    height: 100vh;  /* Full viewport height */
+    display: block; /* Ensure no extra space */
+    position: absolute; /* Make sure it's positioned correctly */
+    top: 0;  /* Align to top */
+    left: 0; /* Align to left */
+    margin: 0; /* Remove default margin */
+  }
+  
