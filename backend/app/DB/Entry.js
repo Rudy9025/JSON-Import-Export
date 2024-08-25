@@ -1,6 +1,6 @@
 import { Sequelize } from 'sequelize';
  
-const sequelize = new Sequelize('csv', 'root', 'rudy', {
+const sequelize = new Sequelize('csv', 'root', 'root', {
   host: 'localhost',
   dialect: 'mysql',
   dialectModule: require('mysql2'),
